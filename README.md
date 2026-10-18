@@ -1,4 +1,4 @@
-#👋 Hey, I'm Shelby Developer 🐺
+👋 Hey, I'm Shelby Developer 🐺
 
 🚀 Tech Enthusiast | Android Developer | Firmware & Device Software Explorer
 
@@ -33,4 +33,4 @@ I may not know everything today, but I'm always ready to learn, improve, and bui
 
 "Learn Every Day. Build Every Day. Improve Every Day."
 
-Thanks for visiting my profile! Follow my journey as I continue exploring technology and developing new projects. cky-Boii
+Thanks for visiting my profile! Follow my journey as I continue exploring technology and developing new projects.
